@@ -7,7 +7,7 @@ Given that the first method requires having expensive EEG equipment at one's dis
 
 See also the blog post "Building powerful image classification models using bery little data" from blog.keras.io
 
-# Dependencies 
+### Dependencies 
 
 Jupyter Notebook
 
@@ -20,3 +20,19 @@ Numpy
 Pandas
 
 Matplotlib
+
+
+### Disclaimer
+
+This code is not ready yet and will probably contain (a lot of?) errors, please copy or use with caution. 
+When you do use it, please acknowledge fchollet and the Keras Github repo 
+
+@misc{chollet2015,
+author = {François Chollet },
+title = {keras},
+year = {2015},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/fchollet/keras}},
+commit = {5bcac37}
+}
